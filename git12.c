@@ -23,5 +23,15 @@ int main() {
         printf("This will be printed regardless of the case.\n");
         printf("This is outside the switch statement.\n");
 
+
+
+
+
+
+
+
+        printf("this is my house.\n");
+        printf("beautiful code.\n");
+        printf("educational code\n");
     return 0;
 }
