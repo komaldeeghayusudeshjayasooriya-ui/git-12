@@ -15,7 +15,13 @@ int main() {
             break;
         default:
             printf("Invalid Day\n");
+
     }
+
+
+        printf("Switch statement is done.\n");
+        printf("This will be printed regardless of the case.\n");
+        printf("This is outside the switch statement.\n");
 
     return 0;
 }
