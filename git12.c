@@ -33,5 +33,29 @@ int main() {
         printf("this is my house.\n");
         printf("beautiful code.\n");
         printf("educational code\n");
-    return 0;
+    
+
+
+        
+        printf(" how are you?\n");
+        printf("i am fine.\n");
+        printf("its good\n");
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        return 0;
+
+
+
+
+
+
 }
