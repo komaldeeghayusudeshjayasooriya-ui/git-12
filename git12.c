@@ -2,14 +2,13 @@
 
 int main() {
    
-    printf("This is a bad code\n");
-    printf("This is a incorrect code\n");
-    printf("This is a bad code\n");
-    printf("This is a incorrectcode\n");
-    printf("This is a bad code\n");
+
+ 
 
 
 
+printf("I aded a new good lines\n");
+printf("I am a good Developer\n");
 
 
 
